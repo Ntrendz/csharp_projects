@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{36824C37-4E85-47F1-916F-B7AA308F0964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area of Circle", "..\Area of Circle\Area of Circle\Area of Circle.csproj", "{91140CDF-E3A7-4F24-A1AA-C3F39DF2A095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pythagoras theorem", "..\pythagoras theorem\pythagoras theorem\pythagoras theorem.csproj", "{B11C744D-8649-479E-842D-9CB9F9062466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic Equation", "ConsoleApp2\Quadratic Equation.csproj", "{4E54E9F0-7307-449E-B6B7-ADAA0BD887F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1\ConsoleApp1.csproj", "{FC6A6773-3D5D-49B3-867F-72E0EEB95DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36824C37-4E85-47F1-916F-B7AA308F0964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36824C37-4E85-47F1-916F-B7AA308F0964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36824C37-4E85-47F1-916F-B7AA308F0964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36824C37-4E85-47F1-916F-B7AA308F0964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91140CDF-E3A7-4F24-A1AA-C3F39DF2A095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91140CDF-E3A7-4F24-A1AA-C3F39DF2A095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91140CDF-E3A7-4F24-A1AA-C3F39DF2A095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91140CDF-E3A7-4F24-A1AA-C3F39DF2A095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11C744D-8649-479E-842D-9CB9F9062466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11C744D-8649-479E-842D-9CB9F9062466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11C744D-8649-479E-842D-9CB9F9062466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11C744D-8649-479E-842D-9CB9F9062466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E54E9F0-7307-449E-B6B7-ADAA0BD887F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E54E9F0-7307-449E-B6B7-ADAA0BD887F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E54E9F0-7307-449E-B6B7-ADAA0BD887F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E54E9F0-7307-449E-B6B7-ADAA0BD887F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6A6773-3D5D-49B3-867F-72E0EEB95DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A6773-3D5D-49B3-867F-72E0EEB95DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A6773-3D5D-49B3-867F-72E0EEB95DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A6773-3D5D-49B3-867F-72E0EEB95DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6097B9-37CB-4736-800C-315D842B118B}
+	EndGlobalSection
+EndGlobal
